@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bm_imagepicker-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wxframework/build/intermediates/exploded-aar/bm_imagepicker/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/wxframework/build/intermediates/exploded-aar/bm_imagepicker/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
